@@ -1,0 +1,5 @@
+= puppi
+
+Generate this with
+    puppi rdoc
+After you have described your command line interface

@@ -1,0 +1,6 @@
+= puppi
+
+Describe your project here
+
+:include:puppi.rdoc
+
